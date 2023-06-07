@@ -5,6 +5,11 @@
 	font-family: 'exo 2', sans-serif;
 }
 
+/*creacion de una clase para darle el centrado al titulo en la v1.2*/
+h1{
+	text-align: center;
+}
+
 body{
 	width: 100vw;
 	height: 100vh;
